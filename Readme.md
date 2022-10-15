@@ -1,24 +1,8 @@
-#Step 1 - Install Apache
-![](%project 1/apache2 installation.png%)
+# darey-projects
 
-#Step 2 - Mysql Installation
-![](%project 1\mysql installation.png%)
+**Please Note: Each project files is saved to a branch matching project name.
+E.g Project 1 files is in project1 branch**
 
+Name: Chibuikem Prince Chisomaga
 
-
-
-#Step3 - PHP Installation
-
-![](%project 1\php installed.png%)
-
-
-#Step 4 and 5
-
-
-![](%project 1\Screenshot 2022-10-15 044852.png%)
-
-
-
-
-
-
+Email: youngprince042@gmail.com
