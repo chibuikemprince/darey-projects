@@ -1,5 +1,5 @@
 #Step 1 - Install Apache
-![](%https://github.com/chibuikemprince/darey-projects/blob/project1/project%201/apache2%20installation.png%)
+![](%https://img.freepik.com/free-vector/web-banners-template-set-with-text-space_1017-30732.jpg?w=2000%)
 
 #Step 2 - Mysql Installation
 ![](%/https://github.com/chibuikemprince/darey-projects/blob/project1/project%201/mysql installation.png%)
